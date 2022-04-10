@@ -19,7 +19,7 @@ docker run -dp 3001:3000 rabia_docker
 
 + tarayıcıda http://localhost:3001/ adresine gidelim
 
-![lokalhost resmi](https://github.com/Rabiaakbulut/docker-uygulama/lokalhost.png)
+![lokalhost resmi](/lokalhost.png)
 ***
 
 ## Imageyi Docker Hub'a Yükleme
